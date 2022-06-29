@@ -1,0 +1,24 @@
+/*selector {
+     propiedad:valor 
+}*/
+body{
+    background-color: rgb(163, 125, 199);
+    font-size: 30px;
+    color: blueviolet;
+}
+h1{
+    color: darkorange;
+    font-size: 30px;
+}
+.azul{
+    color: cornflowerblue;
+    font-size: 30px;
+}
+.rojo{
+    color: darkmagenta;
+    font-size: 30px;
+}
+.container2
+{
+    color: deeppink;
+}
